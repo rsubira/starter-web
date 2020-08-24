@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. Sample.
 
 ## Introduction
 
-Sample text new text
+Sample text new text. Adding a line for rebasing example.
 
 ## Purpose
 
